@@ -2,9 +2,7 @@
 
 <table>
   <tr>
-    <td>
-      <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3NGd5dWN2OWo4Njdob3E2dm8zOGcyNGg2cGpuaHV4MDBiYnVuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" />
-    </td>
+ 
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Experienced+Full-Stack+Engineer;Proficient+in+MERN+and+MEAN+stacks;Azure+Cloud+and+DevOps+Enthusiast;Building+Scalable+and+User-Centric+Apps" />
     </td>
