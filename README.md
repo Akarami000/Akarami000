@@ -12,7 +12,7 @@ I am an **Experienced Full-Stack Software Engineer** specializing in **MERN** an
 
 ### 🔥 Key Strengths
 - Strong in **Angular**, **React**, **Node.js**, **MongoDB**
-- Hands-on experience with **Azure Cloud Services** & **DevOps**
+- Hands-on experience with **AWS Cloud Services** & **DevOps**
 - Skilled in **REST API** & **GraphQL** integration
 - Expert in **responsive UI/UX** for all screen sizes
 
