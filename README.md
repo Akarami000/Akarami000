@@ -1,13 +1,5 @@
 # Hello, World! 👋 🌍  
 
-<table>
-  <tr>
- 
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Experienced+Full-Stack+Engineer;Proficient+in+MERN+and+MEAN+stacks;Azure+Cloud+and+DevOps+Enthusiast;Building+Scalable+and+User-Centric+Apps" />
-    </td>
-  </tr>
-</table>
 
 ---
 
